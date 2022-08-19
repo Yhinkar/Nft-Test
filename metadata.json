@@ -1,0 +1,47 @@
+
+{ 
+  "description": "Web3bridge Nft-creation....",
+  "external_url": "https://eth-rinkeby.alchemyapi.io/v2/UM3dl6sgo5QF_hy91pIz4j619Xci05ZC",
+  "image": "Ipfs: https://ipfs.filebase.io/ipfs/QmT4JUdgbQuucW8SX95g9Wum8vbUCBcAVPVGZCTxEdUhEt",
+  "name": "Yinka NFT", 
+  "attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Cartoon"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Small"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Calm"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 3
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 1.6
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "bright"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "None", 
+      "value": 5
+    }, 
+    {
+      "display_type": "Percentage", 
+      "trait_type": "Stamina", 
+      "value": 4
+    }, 
+    {
+      "display_type": "num", 
+      "trait_type": "Generation", 
+      "value": 1
+    }
+  }
