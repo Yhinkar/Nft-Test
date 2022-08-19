@@ -38,3 +38,8 @@ contract YinkaToken is ERC721, ERC721URIStorage, Ownable {
 //================================Contract address=============================>
 // 0x4E387D827E0B134AF9847149E3DEAA0bbDFEc73b//
 // OPENSEA LINK: https://testnets.opensea.io/collection/yinkatoken
+
+
+//========================== Contract Address===============================>
+// 0x6096F02FC157d6cfD0b4B7C62AA892244a7bB573
+// Opensea Link that displays picture: https://testnets.opensea.io/assets/rinkeby/0x6096f02fc157d6cfd0b4b7c62aa892244a7bb573/0

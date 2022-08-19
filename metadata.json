@@ -1,47 +1,27 @@
 
-{ 
-  "description": "Web3bridge Nft-creation....",
-  "external_url": "https://eth-rinkeby.alchemyapi.io/v2/UM3dl6sgo5QF_hy91pIz4j619Xci05ZC",
-  "image": "Ipfs: https://ipfs.filebase.io/ipfs/QmT4JUdgbQuucW8SX95g9Wum8vbUCBcAVPVGZCTxEdUhEt",
-  "name": "Yinka NFT", 
+{
+  "description": "Web3Bridge NFT test",
+  "external_url": "https://twitter.com/yinkaabeeb",
+  "image": "https://ipfs.filebase.io/ipfs/QmZ6xxiFsuEuXG2e7R9T98Y7m9RzfByMymR8ngPB823xZU",
+  "name": "Yinka Token",
   "attributes": [
     {
-      "trait_type": "Base", 
-      "value": "Cartoon"
-    }, 
+      "trait_type": "Gender",
+      "value": "Male"
+    },
     {
-      "trait_type": "Eyes", 
-      "value": "Small"
-    }, 
+      "trait_type": "Course",
+      "value": "Web3Bridge Cohort VII"
+    },
     {
-      "trait_type": "Mouth", 
-      "value": "Calm"
-    }, 
+      "trait_type": "Token Standard",
+      "value": "ERC721"
+    },
     {
-      "trait_type": "Level", 
-      "value": 3
-    }, 
-    {
-      "trait_type": "Stamina", 
-      "value": 1.6
-    }, 
-    {
-      "trait_type": "Personality", 
-      "value": "bright"
-    }, 
-    {
-      "display_type": "boost_number", 
-      "trait_type": "None", 
-      "value": 5
-    }, 
-    {
-      "display_type": "Percentage", 
-      "trait_type": "Stamina", 
-      "value": 4
-    }, 
-    {
-      "display_type": "num", 
-      "trait_type": "Generation", 
-      "value": 1
+      "trait_type": "Date",
+      "value": "19th August, 2022"
     }
-  }
+  ]
+}
+
+
